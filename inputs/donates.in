@@ -1,0 +1,10 @@
+[create_donate]
+info: DonateInfo = DonateInfo {
+    title: 1241231231313field
+};
+
+[make_donate]
+makeDonateInfo: MakeDonateInfo = MakeDonateInfo {
+    amount: 9u64,
+    id: 139162369677323605276338839767531700098116377350894685253700293399359280302field,
+};
